@@ -36,16 +36,13 @@ I'm a Full-Stack Developer from Ghana, passionate about building innovative web 
 - Cloud and DevOps practices
 
 ## 💻 Most Used Languages
-- 🟪 .NET: 25%
-- ⚫ Next.js: 15%
+- 🟪 .NET: 35%
+- ⚫ Next.js with Tailwind CSS: 20%
 - 🔵 React: 15%
-- 🟩 Node.js with Express: 10%
-- 🟧 HTML: 10%
-- 🟦 AWS & Azure: 8%
-- 🟨 Python: 7%
-- 🟥 Tailwind CSS: 5%
-- 🟫 JavaScript: 3%
-- 🟬 TypeScript: 2%
+- 🟦 AWS & Azure: 10%
+- 🟨 Python: 8%
+- 🟫 JavaScript: 7%
+- 🟩 Node.js / TypeScript with Express: 5%
 
 ## 📊 GitHub Stats
 ![Daniel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dannybanksrocks&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
@@ -55,7 +52,7 @@ I'm a Full-Stack Developer from Ghana, passionate about building innovative web 
 ## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-nyarko-rockson/)
 
-📞 **Phone**: +233501045303
+📞 **Phone**: +233501045303 | +233543737196
 
 ## 👯 Collaboration
 I'm looking to collaborate on full-stack projects that leverage cloud and DevOps practices. Feel free to reach out!
